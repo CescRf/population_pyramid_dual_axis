@@ -1,3 +1,14 @@
+##############################################################################################################################
+##POPULATION PYRAMID WITH A DECOMPOSITION FOR THREE VARIABLES
+##
+##CÉSAR CRISTANCHO. MARCH, 2020 (LAST UPDATED: MARCH, 2020)
+##
+##cacristanchof@gmail.com
+##
+##
+##
+##THERE IS NO WARRANTY FOR THIS CODE
+##############################################################################################################################
 
 library(tidyverse)
 library(data.table)
